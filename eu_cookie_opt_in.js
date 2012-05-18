@@ -1,3 +1,10 @@
+/*
+Starfish Web Consulting - Feel free to use or adapt this code
+on your projects
+Visit us on the web: http://starfishwebconsulting.co.uk
+Email us: info@starfishwebconsulting.co.uk
+Follow us on Twitter: @starfishweb
+*/
 (function() {
 
 EU_Cookie = {
